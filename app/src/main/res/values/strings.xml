@@ -1,0 +1,413 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <array name="data_photo">
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_aquaman</item>
+    </array>
+
+    <string-array name="data_name">
+        <item>Hunter Killer (2018)</item>
+        <item>Robin Hood (2018)</item>
+        <item>A Star Is Born (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Once Upon a Deadpool (2018)</item>
+        <item>Glass (2019)</item>
+        <item>Mortal Engines (2018)</item>
+        <item>The Girl in the Spider\'s Web (2018)</item>
+        <item>Venom (2018)</item>
+        <item>Aquaman (2018)</item>
+    </string-array>
+    <array name="data_lokasi">
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+        <item>@drawable/flagus</item>
+    </array>
+    <string-array name="data_tanggal">
+        <item>October 19, 2018</item>
+        <item>November 21, 2018</item>
+        <item>October 5, 2018</item>
+        <item>October 30, 2018</item>
+        <item>December 11, 2018</item>
+        <item>January 18, 2019</item>
+        <item>December 14, 2018</item>
+        <item>November 9, 2018</item>
+        <item>October 1, 2018</item>
+        <item>December 21, 2018</item>
+    </string-array>
+    <string-array name="data_bahasa">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="data_durasi">
+        <item>2h 2m</item>
+        <item>1h 56m</item>
+        <item>2h 16m</item>
+        <item>2h 15m</item>
+        <item>1h 57m</item>
+        <item>2h 9m</item>
+        <item>2h 9m</item>
+        <item>1h 57m</item>
+        <item>1h 52m</item>
+        <item>2h 24m</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>A war hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder &amp; zero F\'s.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>In Stockholm, Sweden, hacker Lisbeth Salander is hired by Frans Balder, a computer engineer, to retrieve a program that he believes it is too dangerous to exist.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+    </string-array>
+
+
+    <!--Crew 1-->
+    <string-array name="data_crew_1">
+        <item>Donovan Marsh</item>
+        <item>Ben Chandler</item>
+        <item>Bradley Cooper</item>
+        <item>Anthony McCarten</item>
+        <item>David Leitch</item>
+        <item>M. Night Shyamalan</item>
+        <item>Christian Rivers</item>
+        <item>Fede Alvarez</item>
+        <item>David Michelinie</item>
+        <item>James Wan</item>
+    </string-array>
+    <string-array name="data_crew_1_profesi">
+        <item>Director</item>
+        <item>Screenplay, Story</item>
+        <item>Director, Screenplay</item>
+        <item>Screenplay, Story</item>
+        <item>Director</item>
+        <item>Director, Screenplay</item>
+        <item>Director</item>
+        <item>Director, Screenplay</item>
+        <item>Characters</item>
+        <item>Director, Story</item>
+    </string-array>
+
+    <!--Crew 2-->
+    <string-array name="data_crew_2">
+        <item>George Wallace</item>
+        <item>Otto Bathurst</item>
+        <item>Will Fetters</item>
+        <item>Bryan Singer</item>
+        <item>Paul Wernick</item>
+        <item />
+        <item>Philip Reeve</item>
+        <item>Stieg Larsson</item>
+        <item>Mike Zeck</item>
+        <item>Will\nBeall </item>
+    </string-array>
+    <string-array name="data_crew_2_profesi">
+        <item>Novel</item>
+        <item>Director</item>
+        <item>Screenplay</item>
+        <item>Director</item>
+        <item>Writer</item>
+        <item />
+        <item>Novel</item>
+        <item>Characters</item>
+        <item>Characters</item>
+        <item>Screenplay, Story</item>
+    </string-array>
+
+    <!--Crew 3-->
+    <string-array name="data_crew_3">
+        <item>Don Keith</item>
+        <item>David James Kelly</item>
+        <item>Eric Roth</item>
+        <item>Peter Morgan</item>
+        <item>Ryan Reynolds</item>
+        <item />
+        <item>Peter Jackson</item>
+        <item>David Lagercrantz</item>
+        <item>Todd McFarlane</item>
+        <item>Paul Norris</item>
+    </string-array>
+    <string-array name="data_crew_3_profesi">
+        <item>Novel</item>
+        <item>Screenplay</item>
+        <item>Screenplay</item>
+        <item>Story</item>
+        <item>Writer</item>
+        <item />
+        <item>Screenplay</item>
+        <item>Novel</item>
+        <item>Characters</item>
+        <item>Characters</item>
+    </string-array>
+
+    <!--Crew 4-->
+    <string-array name="data_crew_4">
+        <item>Arne Schmidt</item>
+        <item />
+        <item>William A. Wellman</item>
+        <item />
+        <item>Rhett Reese</item>
+        <item />
+        <item>Fran Walsh</item>
+        <item>Steven Knight</item>
+        <item>Ruben Fleischer</item>
+        <item>Mort Weisinger</item>
+    </string-array>
+    <string-array name="data_crew_4_profesi">
+        <item>Screenplay</item>
+        <item />
+        <item>Story</item>
+        <item />
+        <item>Writer</item>
+        <item />
+        <item>Screenplay</item>
+        <item>Screenplay</item>
+        <item>Director</item>
+        <item>Characters</item>
+    </string-array>
+
+    <!--Crew 5-->
+    <string-array name="data_crew_5">
+        <item>Jamie Moss</item>
+        <item />
+        <item>Robert Carson</item>
+        <item />
+        <item />
+        <item />
+        <item>Philippa Boyens</item>
+        <item>Jay Basu</item>
+        <item>Scott Rosenberg</item>
+        <item>David Leslie Johnson-McGoldrick</item>
+    </string-array>
+    <string-array name="data_crew_5_profesi">
+        <item>Screenplay</item>
+        <item />
+        <item>Story</item>
+        <item />
+        <item />
+        <item />
+        <item>Screenplay</item>
+        <item>Screenplay</item>
+        <item>Screenplay</item>
+        <item>Screenplay</item>
+    </string-array>
+
+
+    <!-- Crew Billed 1-->
+    <array name="data_photo_billed_1">
+        <item>@drawable/billed_gerard_butler</item>
+        <item>@drawable/billed_taron_egerton</item>
+        <item>@drawable/billed_bradley_cooper</item>
+        <item>@drawable/billed_rami_malek</item>
+        <item>@drawable/billed_ryan_reynolds</item>
+        <item>@drawable/billed_james_mcavoy</item>
+        <item>@drawable/billed_hera_hilmar</item>
+        <item>@drawable/billed_claire_foy</item>
+        <item>@drawable/billed_tom_hardy</item>
+        <item>@drawable/billed_jason_momoa</item>
+    </array>
+    <string-array name="data_billed_1">
+        <item>Gerard Butler</item>
+        <item>Taron Egerton</item>
+        <item>Bradley Cooper</item>
+        <item>Rami Malek</item>
+        <item>Ryan Reynolds</item>
+        <item>James McAvoy</item>
+        <item>Hera Hilmar</item>
+        <item>Claire Foy</item>
+        <item>Tom Hardy</item>
+        <item>Jason Momoa</item>
+    </string-array>
+    <string-array name="data_billed_1_profesi">
+        <item>Captain Joe Glass</item>
+        <item>Robin of Loxley</item>
+        <item>Jackson Maine</item>
+        <item>Freddie Mercury</item>
+        <item>Wade Wilson/Deadpool </item>
+        <item>Patricia/Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B.T. / Kevin Wendell Crumb / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly</item>
+        <item>Hester Shaw</item>
+        <item>Lisbeth Salander</item>
+        <item>Eddie Brock/Venom</item>
+        <item>Arthur Curry/Aquaman</item>
+    </string-array>
+
+    <!-- Crew Billed  2-->
+    <array name="data_photo_billed_2">
+        <item>@drawable/billed_gary_oldman</item>
+        <item>@drawable/billed_jamiefoxx</item>
+        <item>@drawable/billed_lady_gaga</item>
+        <item>@drawable/billed_gwilym_lee</item>
+        <item>@drawable/billed_fred_savage</item>
+        <item>@drawable/billed_bruce_willis</item>
+        <item>@drawable/billed_robert_sheehan</item>
+        <item>@drawable/billed_sverrir_gudnason</item>
+        <item>@drawable/billed_michelle_williams</item>
+        <item>@drawable/billed_amber_heard</item>
+    </array>
+    <string-array name="data_billed_2">
+        <item>Gary Oldman</item>
+        <item>Jamie Foxx</item>
+        <item>Lady Gaga</item>
+        <item>Gwilym Lee</item>
+        <item>Fred Savage</item>
+        <item>Bruce Willis</item>
+        <item>Robert Sheehan</item>
+        <item>Sverrir Gudnason</item>
+        <item>Michelle Williams</item>
+        <item>Amber Heard</item>
+    </string-array>
+    <string-array name="data_billed_2_profesi">
+        <item>CJCS Charles Donnegan</item>
+        <item>Yahya / John</item>
+        <item>Ally Campana</item>
+        <item>Brian May</item>
+        <item>Himself</item>
+        <item>David Dunn/The Overseer</item>
+        <item>Tom Natsworthy</item>
+        <item>Mikael Blomkvist</item>
+        <item>Anne Weying</item>
+        <item>Mera</item>
+    </string-array>
+
+    <!-- Crew Billed 3-->
+    <array name="data_photo_billed_3">
+        <item>@drawable/billed_toby_stephens</item>
+        <item>@drawable/billed_ben_mendelsohn</item>
+        <item>@drawable/billed_sam_elliott</item>
+        <item>@drawable/billed_ben_hardy</item>
+        <item>@drawable/billed_josh_brolin</item>
+        <item>@drawable/billed_anya_taylor_joy</item>
+        <item>@drawable/billed_hugo_weaving</item>
+        <item>@drawable/billed_lakeith_stanfield</item>
+        <item>@drawable/billed_riz_ahmed</item>
+        <item>@drawable/billed_willem_dafoe</item>
+    </array>
+    <string-array name="data_billed_3">
+        <item>Toby Stephens</item>
+        <item>Ben Mendelsohn</item>
+        <item>Sam Elliott</item>
+        <item>Ben Hardy</item>
+        <item>Josh Brolin</item>
+        <item>Anya Taylor-Joy</item>
+        <item>Hugo Weaving</item>
+        <item>Lakeith Stanfield</item>
+        <item>Riz Ahmed</item>
+        <item>Willem Dafoe</item>
+    </string-array>
+    <string-array name="data_billed_3_profesi">
+        <item>Bill Beaman</item>
+        <item>Sheriff of Nottingham</item>
+        <item>Bobby Maine</item>
+        <item>Roger Taylor</item>
+        <item>Cable</item>
+        <item>Casey Cooke</item>
+        <item>Thaddeus Valentine</item>
+        <item>Edwin Needham</item>
+        <item>Carlton Drake/Riot</item>
+        <item>Nuidis Vulko</item>
+    </string-array>
+
+    <!-- Crew Billed 4-->
+    <array name="data_photo_billed_4">
+        <item>@drawable/billed_common</item>
+        <item>@drawable/billed_eve_hewson</item>
+        <item>@drawable/billed_andrew_dice_clay</item>
+        <item>@drawable/billed_joseph_mazzello</item>
+        <item>@drawable/billed_morena_baccarin</item>
+        <item>@drawable/billed_sarah_paulson</item>
+        <item>@drawable/billed_jihae</item>
+        <item>@drawable/billed_sylvia_hoeks</item>
+        <item>@drawable/billed_scott_haze</item>
+        <item>@drawable/billed_patrick_wilson</item>
+    </array>
+    <string-array name="data_billed_4">
+        <item>Common</item>
+        <item>Eve Hewson</item>
+        <item>Andrew Dice Clay</item>
+        <item>Joseph Mazzello</item>
+        <item>Morena Baccarin</item>
+        <item>Sarah Paulson</item>
+        <item>Jihae</item>
+        <item>Sylvia Hoeks</item>
+        <item>Scott Haze</item>
+        <item>Patrick Wilson</item>
+    </string-array>
+    <string-array name="data_billed_4_profesi">
+        <item>RA John Fisk</item>
+        <item>Marian</item>
+        <item>Lorenzo Campana</item>
+        <item>John Deacon</item>
+        <item>Vanessa</item>
+        <item>Dr. Ellie Staple</item>
+        <item>Anna Fang</item>
+        <item>Camilla Salander</item>
+        <item>Security Chief Roland Treece</item>
+        <item>King Orm Marius/Ocean Master</item>
+    </string-array>
+
+    <!-- Crew Billed 5-->
+    <array name="data_photo_billed_5">
+        <item>@drawable/billed_linda_cardellini</item>
+        <item>@drawable/billed_jamie_dornan</item>
+        <item>@drawable/billed_rafi_gavron</item>
+        <item>@drawable/billed_lucy_boynton</item>
+        <item>@drawable/billed_julian_dennison</item>
+        <item>@drawable/billed_samuel_l_jackson</item>
+        <item>@drawable/billed_ronan_raftery</item>
+        <item>@drawable/billed_stephen_merchant</item>
+        <item>@drawable/billed_reid_scott</item>
+        <item>@drawable/billed_nicole_kidman</item>
+    </array>
+    <string-array name="data_billed_5">
+        <item>Linda Cardellini</item>
+        <item>Jamie Dornan</item>
+        <item>Rafi Gavron</item>
+        <item>Lucy Boynton</item>
+        <item>Julian Dennison</item>
+        <item>Samuel L. Jackson</item>
+        <item>Ronan Raftery</item>
+        <item>Stephen Merchant</item>
+        <item>Reid Scott</item>
+        <item>Nicole Kidman</item>
+    </string-array>
+    <string-array name="data_billed_5_profesi">
+        <item>Jane Norquist</item>
+        <item>Will Scarlet</item>
+        <item>Rez Gavron</item>
+        <item>Mary Austin</item>
+        <item>Russell Collins/Firefist</item>
+        <item>Elijah Price/ Mr. Glass</item>
+        <item>Bevis Pod</item>
+        <item>Frans Balder</item>
+        <item>Dr. Dan Lewis</item>
+        <item>Atlanna</item>
+    </string-array>
+
+
+</resources>
